@@ -1,6 +1,22 @@
 # NutritionSearch
 
-This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.2.19.
+A modern nutrition search application built with Angular 19.
+
+## Quick Start
+
+### GitHub Codespaces (Recommended)
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/Vampsas/NutritionSearch)
+
+Click the badge above to start developing in the cloud instantly!
+
+### Local Development
+
+```bash
+npm install
+npm start
+```
+
+Navigate to `http://localhost:4200/`
 
 ## Development server
 
